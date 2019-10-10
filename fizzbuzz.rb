@@ -15,3 +15,4 @@ elsif number % 5 == 0
     end
   end
 end
+fizzbuzz(int)
