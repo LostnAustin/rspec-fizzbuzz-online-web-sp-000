@@ -15,4 +15,3 @@ else number % 5 == 0
     end
   end
 
-fizzbuzz(int)
