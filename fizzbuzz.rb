@@ -11,4 +11,4 @@ if (int % 5) == 0
 if (int % 5 && int % 3) == 0
   puts "FizzBuzz"
   end
-end
+
