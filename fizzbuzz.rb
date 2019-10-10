@@ -8,3 +8,9 @@ def fizzbuzz(int)
 
   end
 end
+
+def fizzbuzz(5)
+  if 5 % 5 == 0
+    "Buzz"
+  end
+end
