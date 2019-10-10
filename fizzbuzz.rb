@@ -10,7 +10,7 @@ def fizzbuzz(int)
   elsif int % 3 == 0
   "Fizz"
 
-elsif number % 5 == 0
+else number % 5 == 0
     puts "Buzz"
     end
   end
