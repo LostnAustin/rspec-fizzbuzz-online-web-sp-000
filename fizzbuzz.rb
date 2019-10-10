@@ -14,4 +14,3 @@ else number % 5 == 0
     puts "Buzz"
     end
   end
-
