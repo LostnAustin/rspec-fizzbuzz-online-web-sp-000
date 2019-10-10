@@ -3,12 +3,15 @@
 
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
-  if int % 3 == 0
+
+  if int % 3 ==0 && i % 5 ==0
+    puts "fizzbuzz"
+
+  elsif int % 3 == 0
   "Fizz"
 
-  end
-
-  if number % 5 == 0
+elsif number % 5 == 0
     puts "Buzz"
-end
+    end
+  end
 end
