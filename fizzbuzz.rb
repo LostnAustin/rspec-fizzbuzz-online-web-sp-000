@@ -14,5 +14,5 @@ else number % 5 == 0
     puts "Buzz"
     end
   end
-end
+
 fizzbuzz(int)
